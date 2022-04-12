@@ -1,10 +1,10 @@
-
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <p>Hello world!</p>
+    <div className="container">
+      <h1 className='title'>React Movie Search</h1>
     </div>
   );
 }
